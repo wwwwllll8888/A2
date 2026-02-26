@@ -224,7 +224,7 @@
 
 22. 原始蠻勇型無眉（木鹿大王）
 
-    參考圖片   
+    參考圖片   https://raw.githubusercontent.com/wwwwllll8888/PHG01/refs/heads/main/%E9%9D%A2%E7%9B%B8_%E4%B8%89%E5%9C%8B_%E6%9C%A8%E9%B9%BF%E5%A4%A7%E7%8E%8B.bmp
 
 - 眉骨高、無眉   
 
